@@ -11,7 +11,7 @@ Este é um projeto simples em JavaScript para gerenciar uma lista de amigos e re
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Abra o arquivo `index.html` no seu navegador ou acesse o [projeto online](https://lggustavodev.github.io/amigo-secreto/).
 2. No campo de entrada, digite o nome de um amigo e clique no botão "Adicionar".
 3. A lista de amigos será exibida em colunas com até três nomes por coluna.
 4. Clique no botão "Sortear amigo" para sortear um amigo da lista.
